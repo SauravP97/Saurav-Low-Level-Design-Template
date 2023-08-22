@@ -1,20 +1,17 @@
-package singleton.sync;
+package singleton.eager;
 
 import java.util.HashMap;
 
-// Singleton Class for Cache Service - Synchronized Implementation.
+// Singleton Class for Cache Service - Eager Implementation.
 public class CacheService {
-    private static CacheService service = null;
+    private static CacheService service = new CacheService();
     private HashMap<Integer, String> cacheMap;
 
     private CacheService() {
         cacheMap = new HashMap<Integer, String>();
     }
 
-    public static synchronized CacheService getCache() {
-        if (service == null) {
-            service = new CacheService();
-        }
+    public static CacheService getCache() {
         return service;
     }
 
