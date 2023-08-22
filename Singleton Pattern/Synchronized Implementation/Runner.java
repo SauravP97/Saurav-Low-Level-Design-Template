@@ -1,10 +1,10 @@
-package singleton.lazy;
+package singleton.sync;
 
-import singleton.lazy.CacheService;
+import singleton.sync.CacheService;
 
 public class Runner {
     public static void main(String[] args) {
-        System.out.println("============== Lazy Implementation ============== \n");
+        System.out.println("============== Synchronized Implementation ============== \n");
         CacheService service = CacheService.getCache();
         System.out.println("Got the instance for the first time \n");
         
