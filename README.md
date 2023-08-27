@@ -15,3 +15,7 @@ it for understanding, modifying and trying out the implementation in real time.
 
 1. Alternate Implementation [:link:](/Decorator%20Pattern/Alternative%20Implementation/)
 2. Headfirst Design Book Example [:link:](/Decorator%20Pattern/Headfirst%Design%20Book%20Example/)
+3. Newsletter Example [:link:](/Decorator%20Pattern/Newsletter%20Example/)
+    a. Class Explosion Implementation [:link:](/Decorator%20Pattern/Newsletter%20Example/Class%20Explosion%20Implementation/)
+    b. Alternate Implementation (violates Open-Closed principle) [:link:](/Decorator%20Pattern/Newsletter%20Example/Alternate%20Implementation/)
+    c. Effective Implementation (Decorator Pattern) [:link:](/Decorator%20Pattern/Newsletter%20Example/Effective%20Implementation/)
