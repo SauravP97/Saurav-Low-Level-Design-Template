@@ -31,3 +31,7 @@ it for understanding, modifying and trying out the implementation in real time.
     2. Simple Factory Pattern [:link:](/Factory%20Pattern/Newsletter%20Example/Simple%20Factory%20Pattern)
     3. Factory Method Pattern [:link:](/Factory%20Pattern/Newsletter%20Example/Factory%20Method%20Pattern)
 
+### Command Pattern
+
+1. Headfirst Design Book Example [:link:](/Command%20Pattern/Headfirst%Design%20Book%20Example/)
+
