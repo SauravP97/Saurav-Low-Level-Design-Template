@@ -33,5 +33,6 @@ it for understanding, modifying and trying out the implementation in real time.
 
 ### Command Pattern
 
-1. Headfirst Design Book Example [:link:](/Command%20Pattern/Headfirst%Design%20Book%20Example/)
+1. Headfirst Design Book Example [:link:](/Command%20Pattern/Headfirst%20Design%20Book%20Example/)
+2. Newsletter Example [:link:](/Command%20Pattern/Newsletter%20Example/)
 
