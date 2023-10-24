@@ -36,3 +36,9 @@ it for understanding, modifying and trying out the implementation in real time.
 1. Headfirst Design Book Example [:link:](/Command%20Pattern/Headfirst%20Design%20Book%20Example/)
 2. Newsletter Example [:link:](/Command%20Pattern/Newsletter%20Example/)
 
+### Observer Pattern
+
+1. Headfirst Design Book Example [:link:](/Observer%20Pattern/Head%20First%20Example/)
+    1. Inefficient Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Inefficient%20Implementation)
+    2. Atual Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Actual%20Implementation)
+    3. Java In Built Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Java%20In%20Built%20Implementation)
