@@ -42,3 +42,4 @@ it for understanding, modifying and trying out the implementation in real time.
     1. Inefficient Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Inefficient%20Implementation)
     2. Atual Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Actual%20Implementation)
     3. Java In Built Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Java%20In%20Built%20Implementation)
+2. Newsletter Example [:link:](/Observer%20Pattern/Newsletter%20Example/)
