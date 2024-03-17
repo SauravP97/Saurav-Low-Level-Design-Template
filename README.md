@@ -31,12 +31,12 @@ it for understanding, modifying and trying out the implementation in real time.
     2. Simple Factory Pattern [:link:](/Factory%20Pattern/Newsletter%20Example/Simple%20Factory%20Pattern)
     3. Factory Method Pattern [:link:](/Factory%20Pattern/Newsletter%20Example/Factory%20Method%20Pattern)
 
-### Command Pattern
+### Command Pattern :zap:
 
 1. Headfirst Design Book Example [:link:](/Command%20Pattern/Headfirst%20Design%20Book%20Example/)
 2. Newsletter Example [:link:](/Command%20Pattern/Newsletter%20Example/)
 
-### Observer Pattern
+### Observer Pattern :mag:
 
 1. Headfirst Design Book Example [:link:](/Observer%20Pattern/Head%20First%20Example/)
     1. Inefficient Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Inefficient%20Implementation)
@@ -44,6 +44,6 @@ it for understanding, modifying and trying out the implementation in real time.
     3. Java In Built Implementation [:link:](/Observer%20Pattern/Head%20First%20Example/Java%20In%20Built%20Implementation)
 2. Newsletter Example [:link:](/Observer%20Pattern/Newsletter%20Example/)
 
-### Strategy Pattern
+### Strategy Pattern :trident:
 
-  1. Newsletter Example [:link:](/Strategy%20Pattern/)
+  1. Newsletter Example [View Code](/Strategy%20Pattern/)
