@@ -47,3 +47,7 @@ it for understanding, modifying and trying out the implementation in real time.
 ### Pattern 6: Strategy Pattern :trident:
 
   1. Newsletter Example [View Code](/Strategy%20Pattern/)
+
+### Pattern 7: Facade Pattern :partly_sunny:
+
+  1. Newsletter Example [View Code](/Facade%20Pattern/)
